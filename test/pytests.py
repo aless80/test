@@ -327,6 +327,8 @@ def test_doconce_format_execute(tdir):
             fout = fout[pos:]
             pos = fout.find('</div>')
             fout = fout[pos:]
+            pos = fout.find('output_text')
+            fout = fout[pos:]
             
             assert '24' in fout
             #assert '36' in fout
