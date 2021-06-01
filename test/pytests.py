@@ -320,10 +320,15 @@ def test_doconce_format_execute(tdir):
             with open(os.path.join(tdir, fname + '.' + extension), 'r') as f:
                 fout = f.read()
             assert '12' in fout
+            pos = fout.find('33')
+            fout = fout[:pos]
+
             pos = fout.find('12')
-            pos = fout[pos:].find('<p>bash')
-            pos = fout[pos:].find('<p>bash')
-            assert '24' in fout[pos+4:]
+            fout = fout[pos:]
+
+            pos = fout[pos:].find('<p>bash')            
+            fout = fout[pos:]
+            assert '24' in fout
             #assert '36' in fout
             #os.remove(os.path.join(tdir, fname + '.' + extension))
 
