@@ -9,7 +9,7 @@
 
 ### å gjøre
 
-
+   
 #### machine learning
 testing norwegian characters in anchors
 
