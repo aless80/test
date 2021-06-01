@@ -21,9 +21,9 @@ jobs:
     steps:
     - uses: julia-actions/setup-julia@v1
       with:
-        version: ''
-        arch: ''
-        show-versioninfo: ''
+        version: '1'
+        arch: 'x64'
+        show-versioninfo: 'false'
     - uses: actions/checkout@v2
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v2
