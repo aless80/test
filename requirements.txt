@@ -59,7 +59,7 @@ prompt-toolkit==3.0.8
 ptyprocess==0.6.0
 publish-doconce==1.1.4
 pycparser==2.20
-Pygments==2.7.3
+Pygments==2.7.4
 pygments-doconce==1.0.1
 pygments-ipython-console==1.0.1
 pyparsing==2.4.7
