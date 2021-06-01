@@ -1,0 +1,105 @@
+% --- begin quiz ---
+% --- quiz heading: SOlution of differential equation
+% --- previous heading type: exercise
+% --- keywords: ['derivatives', 'exponential function', 'equation, differential', 'differential equation']
+
+% --- begin quiz question ---
+Given
+
+\[ \frac{dy}{dx} = -y(x),\quad y(0)=1 \]
+What is the solution of this equation?
+% --- end quiz question ---
+% --- label: quiz:diff:eq1
+
+% --- begin quiz choice 1 (right) ---
+$y=e^{-y}$
+% --- end quiz choice 1 (right) ---
+
+% --- begin quiz choice 2 (wrong) ---
+$y=e^{y}$
+% --- end quiz choice 2 (wrong) ---
+
+% --- begin explanation of choice 2 ---
+Almost, but the sign is wrong (note the minus!).
+% --- end explanation of choice 2 ---
+
+% --- begin quiz choice 3 (wrong) ---
+
+
+
+
+\bpycod
+from math import exp
+def f(x):
+    return exp(x)
+
+\epycod
+
+% --- end quiz choice 3 (wrong) ---
+
+% --- begin explanation of choice 3 ---
+Ooops, forgot a minus: \texttt{exp(-x)}, otherwise this Python code
+must be considered as a good answer. It is more natural,
+though, to write the solution to the problem
+in mathematical notation:
+
+\[ y(x) = e^{-y}.\]
+% --- end explanation of choice 3 ---
+
+% --- begin quiz choice 4 (wrong) ---
+The solution cannot be found because there is a derivative in the equation.
+% --- end quiz choice 4 (wrong) ---
+
+% --- begin explanation of choice 4 ---
+Equations with derivatives can be solved;
+they are termed \emph{differential
+equations}.
+% --- end explanation of choice 4 ---
+
+% --- begin quiz choice 5 (wrong) ---
+The equation is meaningless: an equation must be an equation
+for $x$ or $y$, not a function $y(x)$.
+% --- end quiz choice 5 (wrong) ---
+
+% --- begin explanation of choice 5 ---
+Equations where the unknown is a function, as $y(x)$
+here, are called \emph{differential equations}, and are solved by
+special techniques.
+% --- end explanation of choice 5 ---
+% --- end quiz ---
+
+% --- begin quiz ---
+% --- new quiz page: Test of quizzes
+% --- quiz heading: Capital of Norway
+% --- previous heading type: subsection
+% --- keywords: ['capitals', 'basic intelligence', 'geography']
+
+% --- begin quiz question ---
+[Fundamental test:] What is the capital of Norway?
+% --- end quiz question ---
+
+% --- begin quiz choice 1 (wrong) ---
+[Answer 1:] Stockholm
+% --- end quiz choice 1 (wrong) ---
+
+% --- begin explanation of choice 1 ---
+Stockholm is the capital of Sweden.
+% --- end explanation of choice 1 ---
+
+% --- begin quiz choice 2 (wrong) ---
+[Answer 2:] London
+% --- end quiz choice 2 (wrong) ---
+
+% --- begin quiz choice 3 (right) ---
+[Answer 3:] Oslo
+% --- end quiz choice 3 (right) ---
+
+% --- begin quiz choice 4 (wrong) ---
+Bergen
+% --- end quiz choice 4 (wrong) ---
+
+% --- begin explanation of choice 4 ---
+Those from Bergen would claim so, but nobody else.
+% --- end explanation of choice 4 ---
+% --- end quiz ---
+

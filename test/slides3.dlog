@@ -1,0 +1,2640 @@
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+add_to_file_collection >> .slides3_html_file_collection: slides3.html
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+*** warning: --html_output is obsolete. Use the --output option
+
+add_to_file_collection >> .slides3-solarized3_html_file_collection: slides3-solarized3.html
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+add_to_file_collection >> .slides3._html_file_collection: slides3.p.tex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+*** warning: --html_output is obsolete. Use the --output option
+
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+*** warning: --html_output is obsolete. Use the --output option
+
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+*** warning: --html_output is obsolete. Use the --output option
+
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+*** warning: --html_output is obsolete. Use the --output option
+
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+*** warning: --html_output is obsolete. Use the --output option
+
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+output in slides3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="reveal" -DSLIDE_THEME="beigesmall" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'reveal', 'SLIDE_THEME': 'beigesmall'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSLIDE_TYPE="doconce" -DSLIDE_THEME="solarized3" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SLIDE_TYPE': 'doconce', 'SLIDE_THEME': 'solarized3'}
+Translating doconce text in tmp_mako__slides3.do.txt to html
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.png for format html
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.png for format html
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format html
+*** warning: inline math in HTML must have space around <:
+    0= t_0< t_1 \cdots < t_N=T  ->  0= t_0 < t_1 \cdots < t_N=T
+A list of dependencies for HTML output is in .slides3_html_file_collection
+output in slides3-solarized3.html
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen -DSLIDE_TYPE="beamer" -DSLIDE_THEME="red_plain" slides3.do.txt > tmp_preprocess__slides3.do.txt
+running mako on tmp_preprocess__slides3.do.txt to make tmp_mako__slides3.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'screen', 'SLIDE_TYPE': 'beamer', 'SLIDE_THEME': 'red_plain'}
+Translating doconce text in tmp_mako__slides3.do.txt to pdflatex
+copying from regex "def solver" until "def exact_sol"
+     file: ../doc/src/slides/src/solver.py,lines 9-22 (format: pycod)
+figure file ../doc/src/slides/fig/teacher2:
+    can use ../doc/src/slides/fig/teacher2.jpg for format pdflatex
+figure file ../doc/src/slides/fig/CN_logo:
+    can use ../doc/src/slides/fig/CN_logo.pdf for format pdflatex
+figure file ../doc/src/slides/fig/CN:
+    can use ../doc/src/slides/fig/CN.pdf for format pdflatex
+output in slides3.p.tex

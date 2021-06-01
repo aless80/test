@@ -1,0 +1,7 @@
+.. !split
+
+A section
+=========
+
+Write text.
+

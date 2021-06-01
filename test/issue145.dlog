@@ -1,0 +1,102 @@
+Translating doconce text in issue145.do.txt to ipynb
+found info about 2 exercises
+Failed to remove ans_at_end environment
+Failed to remove sol_at_end environment
+output in issue145.ipynb
+Translating doconce text in issue145.do.txt to ipynb
+found info about 2 exercises
+Failed to remove ans_at_end environment
+Failed to remove sol_at_end environment
+output in issue145.ipynb
+Translating doconce text in issue145.do.txt to ipynb
+found info about 2 exercises
+Failed to remove ans_at_end environment
+Failed to remove sol_at_end environment
+output in issue145.ipynb
+Translating doconce text in issue145.do.txt to ipynb
+found info about 2 exercises
+Failed to remove ans_at_end environment
+Failed to remove sol_at_end environment
+output in issue145.ipynb
+*** error: doconce file in html format, issue145.html, does not exist
+Translating doconce text in issue145.do.txt to ipynb
+found info about 2 exercises
+Failed to remove ans_at_end environment
+Failed to remove sol_at_end environment
+output in issue145.ipynb
+Translating doconce text in issue145.do.txt to html
+found info about 2 exercises
+output in issue145.html
+Translating doconce text in issue145.do.txt to ipynb
+found info about 2 exercises
+Failed to remove ans_at_end environment
+Failed to remove sol_at_end environment
+output in issue145.ipynb
+Translating doconce text in issue145.do.txt to html
+found info about 2 exercises
+output in issue145.html
+Translating doconce text in issue145.do.txt to ipynb
+found info about 2 exercises
+*** error: !bans-!eans block is not legal outside an exercise
+    (or problem/project/example) section:
+    If the block is inside an Example, use --examples_as_exercises
+!bans
+Prints `2`
+!eans
+!bans
+There are many ways to do this. We will show two of them.
+!eans
+Translating doconce text in issue145.do.txt to ipynb
+found info about 2 exercises
+*** error: !bans-!eans block is not legal outside an exercise
+    (or problem/project/example) section:
+    If the block is inside an Example, use --examples_as_exercises
+!bans
+Prints `2`
+!eans
+!bans
+There are many ways to do this. We will show two of them.
+!eans
+Translating doconce text in issue145.do.txt to ipynb
+found info about 2 exercises
+*** error: !bans-!eans block is not legal outside an exercise
+    (or problem/project/example) section:
+    If the block is inside an Example, use --examples_as_exercises
+!bans
+Prints `2`
+!eans
+!bans
+There are many ways to do this. We will show two of them.
+!eans
+Translating doconce text in issue145.do.txt to ipynb
+found info about 1 exercises
+Failed to remove ans_at_end environment
+Failed to remove sol_at_end environment
+output in issue145.ipynb
+Translating doconce text in issue145.do.txt to html
+found info about 1 exercises
+output in issue145.html
+Translating doconce text in issue145.do.txt to ipynb
+found info about 1 exercises
+Failed to remove ans_at_end environment
+Failed to remove sol_at_end environment
+output in issue145.ipynb
+Translating doconce text in issue145.do.txt to html
+found info about 1 exercises
+output in issue145.html
+Translating doconce text in issue145.do.txt to ipynb
+found info about 1 exercises
+Failed to remove ans_at_end environment
+Failed to remove sol_at_end environment
+output in issue145.ipynb
+Translating doconce text in issue145.do.txt to html
+found info about 1 exercises
+output in issue145.html
+Translating doconce text in issue145.do.txt to ipynb
+found info about 1 exercises
+Failed to remove ans_at_end environment
+Failed to remove sol_at_end environment
+output in issue145.ipynb
+Translating doconce text in issue145.do.txt to html
+found info about 1 exercises
+output in issue145.html

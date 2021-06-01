@@ -1,0 +1,8 @@
+.. !split
+
+My first section
+================
+
+.. math::
+         a = b 
+

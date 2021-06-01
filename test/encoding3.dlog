@@ -1,0 +1,1889 @@
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+add_to_file_collection >> .encoding3._html_file_collection: encoding3.p.tex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+add_to_file_collection >> .encoding3_html_file_collection: encoding3.html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+add_to_file_collection >> .encoding3._html_file_collection: encoding3.p.tex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+add_to_file_collection >> .encoding3_html_file_collection: encoding3.html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+add_to_file_collection >> .encoding3_html_file_collection: encoding3.html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+add_to_file_collection >> .encoding3._html_file_collection: encoding3.p.tex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+add_to_file_collection >> .encoding3._html_file_collection: encoding3.p.tex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+add_to_file_collection >> .encoding3_html_file_collection: encoding3.html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+output in encoding3.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DPREPROCESS encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+Translating doconce text in tmp_preprocess__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+output in encoding3.p.tex
+running preprocess -DFORMAT=latex -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to latex
+open file with encoding utf-8
+output in encoding3.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen -DMAKO encoding3.do.txt > tmp_preprocess__encoding3.do.txt
+running mako on tmp_preprocess__encoding3.do.txt to make tmp_mako__encoding3.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'MAKO': True}
+Translating doconce text in tmp_mako__encoding3.do.txt to html
+open file with encoding utf-8
+output in encoding3.html

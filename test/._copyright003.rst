@@ -1,0 +1,28 @@
+.. !split
+
+.. _sec:theory:
+
+Basic Theory
+============
+
+A first discovery was that 1+1 is 2.
+
+.. --- begin exercise ---
+
+Exercise 1: My problem
+----------------------
+
+Here is an important equation:
+
+.. _Eq:my:prob:eq1:
+
+.. math::
+
+    \tag{1}
+    2+2 = 4
+        
+        
+
+As shown in :ref:`(1) <Eq:my:prob:eq1>`, 2 and 2 is 4.
+
+.. --- end exercise ---

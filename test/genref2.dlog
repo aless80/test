@@ -1,0 +1,306 @@
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=screen  genref2.do.txt > tmp_preprocess__genref2.do.txt
+preprocess: error: could not find #include'd file "_genref2.do.txt" on include path: []
+
+return code from preprocess: 1

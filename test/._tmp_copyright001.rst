@@ -1,0 +1,13 @@
+.. !split
+
+My first chapter
+%%%%%%%%%%%%%%%%
+
+.. math::
+         a = b 
+
+A section
+=========
+
+Write text.
+

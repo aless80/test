@@ -1,0 +1,37 @@
+# Information about all exercises in the file tmp_copyright.do.txt.
+# The information can be loaded into a Python list of dicts by
+#
+# f = open('.tmp_copyright.exerinfo', 'r')
+# exer = eval(f.read())
+#
+[{'ans_docend': '',
+  'answer': '',
+  'chapter_exercise': 1,
+  'chapter_no': 2,
+  'chapter_title': 'Basic Theory',
+  'chapter_type': 'Chapter',
+  'closing_remarks': '',
+  'file': None,
+  'heading': '=====',
+  'hints': [],
+  'keywords': None,
+  'label': None,
+  'no': 1,
+  'sol_docend': '',
+  'solution': '',
+  'solution_file': None,
+  'subex': [],
+  'text': 'Here is an important equation:\n'
+          '\n'
+          '!bt\n'
+          '\\begin{equation}\n'
+          '2+2 = 4\n'
+          'label{my:prob:eq1}\n'
+          '\\end{equation}\n'
+          '\n'
+          '!et\n'
+          '\n'
+          'As shown in (ref{my:prob:eq1}), 2 and 2 is 4.',
+  'title': 'My problem',
+  'type': 'Exercise',
+  'type_visible': True}]

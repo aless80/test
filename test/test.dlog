@@ -1,0 +1,99 @@
+*** error: file has a mako construction ${heading}'
+    but seemingly no definition in <%...%>'
+    (it is not a command-line given mako variable either).
+    However, if this is a variable in a Makefile or Bash script
+    run with --no_mako - and you cannot use mako and Makefile or Bash variables
+    in the same document!
+
+Translating doconce text in test.do.txt to html
+output in testdoc_vagrant.html
+*** error: file has a mako construction ${heading}'
+    but seemingly no definition in <%...%>'
+    (it is not a command-line given mako variable either).
+    However, if this is a variable in a Makefile or Bash script
+    run with --no_mako - and you cannot use mako and Makefile or Bash variables
+    in the same document!
+
+*** error: file has a mako construction ${heading}'
+    but seemingly no definition in <%...%>'
+    (it is not a command-line given mako variable either).
+    However, if this is a variable in a Makefile or Bash script
+    run with --no_mako - and you cannot use mako and Makefile or Bash variables
+    in the same document!
+
+*** error: file has a mako construction ${heading}'
+    but seemingly no definition in <%...%>'
+    (it is not a command-line given mako variable either).
+    However, if this is a variable in a Makefile or Bash script
+    run with --no_mako - and you cannot use mako and Makefile or Bash variables
+    in the same document!
+
+Translating doconce text in test.do.txt to html
+output in testdoc_vagrant.html
+Translating doconce text in test.do.txt to html
+output in testdoc_vagrant.html
+Translating doconce text in test.do.txt to html
+output in testdoc_vagrant.html
+Translating doconce text in test.do.txt to html
+output in testdoc_vagrant.html
+Translating doconce text in test.do.txt to html
+output in testdoc_vagrant.html
+Translating doconce text in test.do.txt to html
+output in testdoc_vagrant.html
+Translating doconce text in test.do.txt to html
+output in testdoc_vagrant.html
+Translating doconce text in test.do.txt to html
+output in testdoc_vagrant.html
+Translating doconce text in test.do.txt to html
+output in testdoc_vagrant.html
+Translating doconce text in test.do.txt to html
+output in testdoc_vagrant.html
+Translating doconce text in test.do.txt to html
+output in testdoc_vagrant.html
+Translating doconce text in test.do.txt to html
+output in testdoc_vagrant.html
+Translating doconce text in test.do.txt to html
+output in testdoc_vagrant.html
+Translating doconce text in test.do.txt to html
+Translating doconce text in test.do.txt to html
+Translating doconce text in test.do.txt to html
+output in testdoc_vagrant.html
+Translating doconce text in test.do.txt to html
+Translating doconce text in test.do.txt to html
+Translating doconce text in test.do.txt to html
+Translating doconce text in test.do.txt to html
+Translating doconce text in test.do.txt to html
+Translating doconce text in test.do.txt to html
+output in testdoc_vagrant.html
+running mako on test.do.txt to make tmp_mako__test.do.txt
+Translating doconce text in tmp_mako__test.do.txt to html
+output in testdoc_vagrant.html
+running mako on test.do.txt to make tmp_mako__test.do.txt
+Translating doconce text in tmp_mako__test.do.txt to html
+output in testdoc_vagrant.html
+running mako on test.do.txt to make tmp_mako__test.do.txt
+Translating doconce text in tmp_mako__test.do.txt to html
+running mako on test.do.txt to make tmp_mako__test.do.txt
+Translating doconce text in tmp_mako__test.do.txt to html
+running mako on test.do.txt to make tmp_mako__test.do.txt
+Translating doconce text in tmp_mako__test.do.txt to html
+running mako on test.do.txt to make tmp_mako__test.do.txt
+Translating doconce text in tmp_mako__test.do.txt to html
+running mako on test.do.txt to make tmp_mako__test.do.txt
+Translating doconce text in tmp_mako__test.do.txt to html
+running mako on test.do.txt to make tmp_mako__test.do.txt
+Translating doconce text in tmp_mako__test.do.txt to html
+running mako on test.do.txt to make tmp_mako__test.do.txt
+Translating doconce text in tmp_mako__test.do.txt to html
+running mako on test.do.txt to make tmp_mako__test.do.txt
+Translating doconce text in tmp_mako__test.do.txt to html
+output in testdoc_vagrant.html
+running mako on test.do.txt to make tmp_mako__test.do.txt
+Translating doconce text in tmp_mako__test.do.txt to html
+*** error: could not find template "template_vagrant.html"
+running mako on test.do.txt to make tmp_mako__test.do.txt
+Translating doconce text in tmp_mako__test.do.txt to html
+output in testdoc_vagrant.html
+running mako on test.do.txt to make tmp_mako__test.do.txt
+Translating doconce text in tmp_mako__test.do.txt to html
+output in testdoc_vagrant.html

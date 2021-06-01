@@ -1,0 +1,26 @@
+\frametitle{Various admon blocks}
+
+Can use admons to simulate blocks:
+
+\pause
+\begin{block}{Key PDE (with large title and math font): }
+\large
+
+\[ \frac{\partial u}{\partial t} = \nabla^2 u \]
+\end{block}
+
+\pause
+\begin{block}{}
+Just some block with text and a conclusion that something is important.
+This one pops up after the rest of the slide.
+\end{block}
+
+\pause
+\begin{block}{Warning}
+\footnotesize
+
+Can use, e.g., a warning admon to have my own notes, preferably
+inside preprocess/mako if statements to turn notes on and off.
+This one is typeset in a small font and with the default
+title (Warning) since no title is specified.
+\end{block}

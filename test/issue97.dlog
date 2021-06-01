@@ -1,0 +1,804 @@
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to latex
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+Translating doconce text in issue97.do.txt to latex
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+Translating doconce text in issue97.do.txt to latex
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+Translating doconce text in issue97.do.txt to latex
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to latex
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+Translating doconce text in issue97.do.txt to latex
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to sphinx
+output in issue97.rst
+Translating doconce text in issue97.do.txt to sphinx
+Translating doconce text in issue97.do.txt to sphinx
+Translating doconce text in issue97.do.txt to sphinx
+*** error: detected code environment "cycod-h"
+    which is not registered in sphinx.py (sphinx_code)
+    or not a language registered in pygments
+Translating doconce text in issue97.do.txt to sphinx
+Translating doconce text in issue97.do.txt to sphinx
+Translating doconce text in issue97.do.txt to sphinx
+Translating doconce text in issue97.do.txt to sphinx
+output in issue97.rst
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+
+...doconce translation: insertion of verbatim and latex blocks 68.7 s (accumulated time: 68.8)
+
+
+...doconce format used 69.8 s to translate the document (286 lines)
+
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to sphinx
+
+...doconce translation: insertion of verbatim and latex blocks 15.8 s (accumulated time: 15.9)
+
+
+...doconce format used 16.9 s to translate the document (75 lines)
+
+output in issue97.rst
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+test for illegal option: --output=
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+
+...doconce translation: handled syntax checks 25.8 s (accumulated time: 27.6)
+
+...doconce translation: insertion of verbatim and latex blocks 29.9 s (accumulated time: 65.7)
+
+
+...doconce format used 66.7 s to translate the document (435 lines)
+
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in ale.html
+Translating doconce text in issue97.do.txt to html
+output in ale.html
+Translating doconce text in issue97.do.txt to latex
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in ale.p.tex
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+add_to_file_collection: added issue97.html
+output in ale.html
+Translating doconce text in issue97.do.txt to html
+*** error: --html_output is obsolete. Use the --output option
+
+Translating doconce text in issue97.do.txt to html
+*** error: --html_output is obsolete. Use the --output option
+
+Translating doconce text in issue97.do.txt to html
+*** error: --html_output is obsolete. Use the --output option
+
+Translating doconce text in issue97.do.txt to html
+*** error: --html_output is obsolete. Use the --output option
+
+add_to_file_collection: ale.html
+output in ale.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+*** warning: --html_output is obsolete. Use the --output option
+
+output in ale.html
+Translating doconce text in issue97.do.txt to html
+*** warning: --html_output is obsolete. Use the --output option
+
+add_to_file_collection >> .ale_html_file_collection: ale.html
+output in ale.html
+Translating doconce text in issue97.do.txt to html
+add_to_file_collection >> .ale_html_file_collection: ale.html
+output in ale.html
+Translating doconce text in issue97.do.txt to html
+add_to_file_collection >> .issue97_html_file_collection: issue97.html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+add_to_file_collection >> .ale_html_file_collection: ale.html
+output in ale.html
+Translating doconce text in issue97.do.txt to html
+add_to_file_collection >> .../ale_html_file_collection: ../ale.html
+Translating doconce text in issue97.do.txt to html
+add_to_file_collection >> .../ale_html_file_collection: ../ale.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+add_to_file_collection >> .../ale_html_file_collection: ../ale.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+
+...doconce translation: removed all verbatim and latex blocks 46.7 s (accumulated time: 46.8)
+
+
+...doconce format used 49.5 s to translate the document (435 lines)
+
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+add_to_file_collection >> .issue97_html_file_collection: hey
+
+...doconce translation: removed all verbatim and latex blocks 42.3 s (accumulated time: 42.3)
+
+
+...doconce format used 45.1 s to translate the document (435 lines)
+
+Translating doconce text in issue97.do.txt to html
+add_to_file_collection >> .issue97_html_file_collection: hey
+add_to_file_collection >> .issue97_html_file_collection: ../ale.html
+output in ../ale.html
+Translating doconce text in issue97.do.txt to html
+add_to_file_collection >> .issue97_html_file_collection: hey
+add_to_file_collection >> .issue97_html_file_collection: ../ale.html
+output in ../ale.html
+Translating doconce text in issue97.do.txt to html
+add_to_file_collection >> .issue97_html_file_collection: hey
+Translating doconce text in issue97.do.txt to html
+add_to_file_collection >> .issue97_html_file_collection: ../ale.html
+output in ../ale.html
+Translating doconce text in issue97.do.txt to html
+output in ../ale.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+add_to_file_collection >> .issue97_html_file_collection
+output in ../ale.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+add_to_file_collection >> .issue97_html_file_collection
+output in ../ale.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in ../ale.html
+Translating doconce text in issue97.do.txt to html
+output in ../ale.html
+Translating doconce text in issue97.do.txt to html
+output in ../ale.html
+Translating doconce text in issue97.do.txt to html
+output in ../ale.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+
+...doconce translation: insertion of verbatim and latex blocks 16.7 s (accumulated time: 16.9)
+
+
+...doconce format used 17.9 s to translate the document (511 lines)
+
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+
+...doconce translation: insertion of verbatim and latex blocks 56.1 s (accumulated time: 56.3)
+
+
+...doconce format used 57.3 s to translate the document (514 lines)
+
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+
+...doconce translation: insertion of verbatim and latex blocks 22.8 s (accumulated time: 23.0)
+
+
+...doconce format used 24.0 s to translate the document (532 lines)
+
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for juliaz. Please install it to execute cells
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for juliaz. Please install it to execute cells
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for juliaz. Please install it to execute cells
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for juliaz. Please install it to execute cells
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for juliaz. Please install it to execute cells
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for juliaz. Please install it to execute cells
+*** No Jupyter kernels found for juliaz. Please install it to execute cells
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for juliaz. Please install it to execute cells
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for python3. The kernels available are:
+    ir,julia-1.6,bash,python3
+    To install Jupyter kernels see https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for python3. The kernels available are:
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for r. The kernels available are:
+    ir,julia-1.6,bash,python3
+    To install Jupyter kernels see https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+
+...doconce translation: insertion of verbatim and latex blocks 20.7 s (accumulated time: 20.8)
+
+
+...doconce format used 21.8 s to translate the document (549 lines)
+
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+
+...doconce translation: insertion of verbatim and latex blocks 132.0 s (accumulated time: 132.1)
+
+
+...doconce format used 133.1 s to translate the document (593 lines)
+
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+
+...doconce translation: insertion of verbatim and latex blocks 45.7 s (accumulated time: 45.8)
+
+
+...doconce format used 46.8 s to translate the document (593 lines)
+
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for r. The kernels available are:
+    ir,julia-1.6,bash,python3
+    To install Jupyter kernels see https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for r. The kernels available are:
+    ir,julia-1.6,bash,python3
+    To install Jupyter kernels see https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+
+...doconce translation: insertion of verbatim and latex blocks 19.8 s (accumulated time: 20.0)
+
+
+...doconce format used 21.0 s to translate the document (592 lines)
+
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+
+...doconce translation: insertion of verbatim and latex blocks 21.2 s (accumulated time: 21.3)
+
+
+...doconce format used 22.3 s to translate the document (596 lines)
+
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+
+...doconce translation: insertion of verbatim and latex blocks 21.1 s (accumulated time: 21.3)
+
+
+...doconce format used 22.3 s to translate the document (591 lines)
+
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+
+...doconce translation: insertion of verbatim and latex blocks 16.3 s (accumulated time: 16.5)
+
+
+...doconce format used 17.5 s to translate the document (594 lines)
+
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+
+...doconce translation: insertion of verbatim and latex blocks 15.1 s (accumulated time: 15.1)
+
+
+...doconce format used 16.1 s to translate the document (591 lines)
+
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+
+...doconce translation: insertion of verbatim and latex blocks 20.6 s (accumulated time: 20.6)
+
+
+...doconce format used 21.7 s to translate the document (591 lines)
+
+output in issue97.html
+Translating doconce text in issue97.do.txt to ipynb
+
+*** warning: latex envir \begin{pmatrix} does not work well in Markdown.    Stick to \[ ... \], equation, equation*, align, or align*    environments in math environments.
+Translating doconce text in issue97.do.txt to ipynb
+
+*** warning: latex envir \begin{pmatrix} does not work well in Markdown.    Stick to \[ ... \], equation, equation*, align, or align*    environments in math environments.
+Translating doconce text in issue97.do.txt to ipynb
+
+*** warning: latex envir \begin{pmatrix} does not work well in Markdown.    Stick to \[ ... \], equation, equation*, align, or align*    environments in math environments.
+Translating doconce text in issue97.do.txt to ipynb
+
+*** warning: latex envir \begin{pmatrix} does not work well in Markdown.    Stick to \[ ... \], equation, equation*, align, or align*    environments in math environments.
+output in issue97.ipynb
+Translating doconce text in issue97.do.txt to html
+
+*** error: !bc is not at the beginning of a line
+    surrounding text:
+!bc pycod
+var=11
+!ec
+  !bc pycod
+print(var)
+!ec
+~                   set !bc at the beginning of the line
+Translating doconce text in issue97.do.txt to html
+
+*** error: !bc is not at the beginning of a line
+    surrounding text:
+
+!bc pycod
+var=11
+!ec
+  !bc pycod
+print(var)
+!ec
+set !bc at the beginning of the line
+Translating doconce text in issue97.do.txt to html
+
+*** error: !bc is not at the beginning of a line
+    surrounding text:
+== test =====
+!bc pycod
+var=11
+!ec
+  !bc pycod
+print(var)
+!ec
+set !bc at the beginning of the line
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for asdaxd. The kernels available are:
+    ir,julia-1.6,bash,python3
+    To install Jupyter kernels see https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+Translating doconce text in issue97.do.txt to html
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for asdaxd. The kernels available are:
+    ir,julia-1.6,bash,python3
+    To install Jupyter kernels see https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for asdaxd. The kernels available are:
+    ir,julia-1.6,bash,python3
+    To install Jupyter kernels see https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for asdaxd. The kernels available are:
+    ir,julia-1.6,bash,python3
+    To install Jupyter kernels see https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for asdaxd. The kernels available are:
+    ir,julia-1.6,bash,python3
+    To install Jupyter kernels see https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for asdaxd. The kernels available are:
+    ir,julia-1.6,bash,python3
+    To install Jupyter kernels see https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for asdaxd. The kernels available are:
+    ir,julia-1.6,bash,python3
+    To install Jupyter kernels see https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for asdaxd. The kernels available are:
+    ir,julia-1.6,bash,python3
+    To install Jupyter kernels see https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for asdaxd. The kernels available are:
+    ir,julia-1.6,bash,python3
+    To install Jupyter kernels see https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for asdaxd. The kernels available are:
+    ir,julia-1.6,bash,python3
+    To install Jupyter kernels see https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for asdaxd. The kernels available are:
+    ir,julia-1.6,bash,python3
+    To install Jupyter kernels see https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for asdaxd. The kernels available are:
+    ir,julia-1.6,bash,python3
+    To install Jupyter kernels see https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for asdaxd. The kernels available are:
+    ir,julia-1.6,bash,python3
+    To install Jupyter kernels see https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for asdaxd. The kernels available are:
+    ir,julia-1.6,bash,python3
+    To install Jupyter kernels see https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+Translating doconce text in issue97.do.txt to html
+*** No Jupyter kernels found for asdaxd. The kernels available are:
+    ir,julia-1.6,bash,python3
+    To install Jupyter kernels see https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+output in issue97.html
+Translating doconce text in issue97.do.txt to html
+Translating doconce text in issue97.do.txt to latex
+output in issue97.p.tex
+Translating doconce text in issue97.do.txt to latex
+Translating doconce text in issue97.do.txt to latex
+Translating doconce text in issue97.do.txt to latex
+Translating doconce text in issue97.do.txt to latex
+output in issue97.p.tex

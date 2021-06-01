@@ -1,0 +1,109 @@
+* articles
+** Stochastic Breakthrough Time Analysis of an Enhanced Oil Recovery Process
+   key:       Langtangen_1992c
+   author:    H. P. Langtangen
+   year:      1992
+   journal:   SIAM Journal on Scientific Computing
+   volume:    13
+   pages:     1394-1417
+   status:    published
+   entrytype: article
+** Numerical Solution of First Passage Problems in Random Vibrations
+   key:       Langtangen_1994a
+   author:    H. P. Langtangen
+   year:      1994
+   journal:   SIAM Journal of Scientific and Statistical Computing
+   volume:    15
+   pages:     997-996
+   status:    published
+   entrytype: article
+** A {FEniCS}-Based Programming Framework for Modeling Turbulent Flow by the {Reynolds}-Averaged {Navier-Stokes} Equations
+   key:       Mortensen_et_al_2011
+   author:    M. Mortensen, H. P. Langtangen, G. N. Wells
+   year:      2011
+   journal:   Advances in Water Resources
+   volume:    34
+   number:    9
+   doi:       10.1016/j.advwatres.2011.02.013
+   status:    published
+   entrytype: article
+* books
+** Computational Partial Differential Equations - Numerical Methods and {Diffpack} Programming
+   key:       Langtangen_2003a
+   author:    H. P. Langtangen
+   year:      2003
+   publisher: Springer
+   status:    published
+   edition:   second
+   entrytype: book
+   series:    Texts in Computational Science and Engineering
+** {P}ython Scripting for Computational Science
+   key:       Langtangen_2008a
+   author:    H. P. Langtangen
+   year:      2008
+   publisher: Springer
+   status:    published
+   edition:   Third
+   entrytype: book
+   series:    Texts in Computational Science and Engineering
+** A Primer on Scientific Programming With {P}ython
+   key:       Langtangen_2012
+   author:    H. P. Langtangen
+   year:      2012
+   publisher: Springer
+   status:    published
+   edition:   Third
+   entrytype: book
+   series:    Texts in Computational Science and Engineering
+* proceedings
+** Software Tools for Multigrid Methods
+   key:          Mardal_et_al_2003a
+   author:       K.-A. Mardal, G. W. Zumbusch, H. P. Langtangen
+   editor:       H. P. Langtangen, A. Tveito
+   year:         2003
+   booktitle:    Advanced Topics in Computational Partial Differential Equations -- Numerical Methods and Diffpack Programming
+   publisher:    Springer
+   pages:        97-152
+   url:          url{http://some.where.org}
+   status:       published
+   entrytype:    inproceedings
+   howpublished: Edited book
+   series:       Lecture Notes in Computational Science and Engineering
+* reports
+** Optimization With {Diffpack}: Practical Example From Welding
+   key:          Jeberg_et_al_2004
+   author:       P. V. Jeberg, H. P. Langtangen, C. B. Terp
+   year:         2004
+   institution:  Simula Research Laboratory
+   status:       published
+   entrytype:    techreport
+   howpublished: Internal report
+   type:         Report 2004-12
+** The {FEMDEQS} Program System
+   key:         Langtangen_1988d
+   author:      H. P. Langtangen
+   year:        1989
+   institution: Department of Mathematics, University of Oslo
+   url:         http://www.math.uio.no/old/days/hpl/femdeqs.pdf
+   status:      published
+   entrytype:   techreport
+   type:        Research Report in Mechanics
+* theses
+** Computational Methods for Two-Phase Flow in Oil Reservoirs
+   key:        Langtangen_1989e
+   author:     H. P. Langtangen
+   year:       1989
+   status:     published
+   entrytype:  phdthesis
+   note:       Dr.~Scient.~thesis.
+   school:     Mechanics Division, Department of Mathematics, University of Oslo
+   thesistype: phd
+* misc
+** Computational Modeling of Huge Tsunamis From Asteroid Impacts
+   key:          Langtangen_talk_2007a
+   author:       H. P. Langtangen
+   year:         2007
+   status:       published
+   entrytype:    misc
+   howpublished: Invited keynote lecture at the \emph{International conference on Computational Science 2007 (ICCS'07)}, Beijing, China
+   month:        May

@@ -1,0 +1,159 @@
+running mako on issueCustomEnvir.do.txt to make tmp_mako__issueCustomEnvir.do.txt
+Translating doconce text in tmp_mako__issueCustomEnvir.do.txt to pdflatex
+output in issueCustomEnvir.p.tex
+running mako on issueCustomEnvir.do.txt to make tmp_mako__issueCustomEnvir.do.txt
+Translating doconce text in tmp_mako__issueCustomEnvir.do.txt to pdflatex
+output in issueCustomEnvir.p.tex
+running mako on issueCustomEnvir.do.txt to make tmp_mako__issueCustomEnvir.do.txt
+Translating doconce text in tmp_mako__issueCustomEnvir.do.txt to pdflatex
+output in issueCustomEnvir.p.tex
+running mako on issueCustomEnvir.do.txt to make tmp_mako__issueCustomEnvir.do.txt
+Translating doconce text in tmp_mako__issueCustomEnvir.do.txt to pdflatex
+output in issueCustomEnvir.p.tex
+running mako on issueCustomEnvir.do.txt to make tmp_mako__issueCustomEnvir.do.txt
+Translating doconce text in tmp_mako__issueCustomEnvir.do.txt to pdflatex
+output in issueCustomEnvir.p.tex
+running mako on issueCustomEnvir.do.txt to make tmp_mako__issueCustomEnvir.do.txt
+Translating doconce text in tmp_mako__issueCustomEnvir.do.txt to pdflatex
+output in issueCustomEnvir.p.tex
+running mako on issueCustomEnvir.do.txt to make tmp_mako__issueCustomEnvir.do.txt
+mako variables: {'FORMAT': 'pdflatex', 'DEVICE': 'paper', "'--latex_link_color": "blue!90'"}
+Translating doconce text in tmp_mako__issueCustomEnvir.do.txt to pdflatex
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+output in issueCustomEnvir.p.tex
+running preprocess -DFORMAT=pdflatex -DDEVICE=paper -D'--latex_link_color="blue!90'" issueCustomEnvir.do.txt > tmp_preprocess__issueCustomEnvir.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=paper -D'--latex_link_color="blue!90'" issueCustomEnvir.do.txt > tmp_preprocess__issueCustomEnvir.do.txt
+/bin/sh: 1: Syntax error: Unterminated quoted string
+
+return code from preprocess: 2
+running preprocess -DFORMAT=pdflatex -DDEVICE=paper -D'--latex_link_color="blue!90'" issueCustomEnvir.do.txt > tmp_preprocess__issueCustomEnvir.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=paper -D'--latex_link_color="blue!90'" issueCustomEnvir.do.txt > tmp_preprocess__issueCustomEnvir.do.txt
+/bin/sh: 1: Syntax error: Unterminated quoted string
+
+return code from preprocess: 2
+running preprocess -DFORMAT=pdflatex -DDEVICE=paper -D'--latex_link_color="blue!90'" issueCustomEnvir.do.txt > tmp_preprocess__issueCustomEnvir.do.txt
+Could not run preprocessor:
+preprocess -DFORMAT=pdflatex -DDEVICE=paper -D'--latex_link_color="blue!90'" issueCustomEnvir.do.txt > tmp_preprocess__issueCustomEnvir.do.txt
+/bin/sh: 1: Syntax error: Unterminated quoted string
+
+return code from preprocess: 2
+running preprocess -DFORMAT=pdflatex -DDEVICE=paper  issueCustomEnvir.do.txt > tmp_preprocess__issueCustomEnvir.do.txt
+running mako on tmp_preprocess__issueCustomEnvir.do.txt to make tmp_mako__issueCustomEnvir.do.txt
+Translating doconce text in tmp_mako__issueCustomEnvir.do.txt to pdflatex
+
+*** warning: found multi-line caption for testfigs/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: testfigs/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: testfigs/__testcode.f,lines 2-11 (format: fcod)
+copy complete file testfigs/__testcode.f (format: ccq)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file testfigs/wave1D:
+    can use testfigs/wave1D.png for format pdflatex
+
+exporting publish database papers.pub to papers.bib:
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in issueCustomEnvir.p.tex
+running preprocess -DFORMAT=pdflatex -DDEVICE=paper  issueCustomEnvir.do.txt > tmp_preprocess__issueCustomEnvir.do.txt
+running mako on tmp_preprocess__issueCustomEnvir.do.txt to make tmp_mako__issueCustomEnvir.do.txt
+Translating doconce text in tmp_mako__issueCustomEnvir.do.txt to pdflatex
+
+*** warning: found multi-line caption for testfigs/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: testfigs/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: testfigs/__testcode.f,lines 2-11 (format: fcod)
+copy complete file testfigs/__testcode.f (format: ccq)
+found info about 11 exercises
+figure file testfigs/wave1D:
+    can use testfigs/wave1D.png for format pdflatex
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+
+exporting publish database papers.pub to papers.bib:
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in testdoc_bigex.p.tex
+running preprocess -DFORMAT=pdflatex -DDEVICE=paper  issueCustomEnvir.do.txt > tmp_preprocess__issueCustomEnvir.do.txt
+running mako on tmp_preprocess__issueCustomEnvir.do.txt to make tmp_mako__issueCustomEnvir.do.txt
+Translating doconce text in tmp_mako__issueCustomEnvir.do.txt to pdflatex
+
+*** warning: found multi-line caption for testfigs/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: testfigs/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: testfigs/__testcode.f,lines 2-11 (format: fcod)
+copy complete file testfigs/__testcode.f (format: ccq)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file testfigs/wave1D:
+    can use testfigs/wave1D.png for format pdflatex
+
+exporting publish database papers.pub to papers.bib:
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+Warning: found "!bc cycod-h", but cycod-h is not a standard predefined code environment
+output in testdoc_bigex.p.tex
