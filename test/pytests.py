@@ -303,9 +303,9 @@ def test_doconce_format_execute(tdir):
     # test doconce format html
     with cd_context(tdir):
         pytext = 'python\n!bc pycod\nvar=11\n!ec\n\n!bc pycod\nprint(var+1)\n!ec\n'
-        shtext = 'bash  \n!bc shpro\nvar=22\n!ec\n\n!bc shcod\necho $((var+2))\n!ec\n'
+        shtext = 'bash  \n!bc shpro\nvar=22\n!ec\n\n!bc shcod\necho $(expr $var + 2)\n!ec\n'
         jltext = 'julia \n!bc jlcod\nvar=33\n!ec\n\n!bc jlpro\nprint(var+3)\n!ec\n'
-        for format in ['html']: #TODO 'ipynb'  , 'latex'
+        for format in ['html', 'latex']: #TODO 'ipynb'
             fname = 'a'
             _ = create_file_with_text(text=pytext + shtext + jltext, fname=fname+'.do.txt')
             # Execute a python block
@@ -320,19 +320,10 @@ def test_doconce_format_execute(tdir):
             with open(os.path.join(tdir, fname + '.' + extension), 'r') as f:
                 fout = f.read()
             assert '12' in fout
-            
-            pos = fout.find('22')
-            fout = fout[pos:]
-            pos = fout.find('var')
-            fout = fout[pos:]
-            pos = fout.find('</div>')
-            fout = fout[pos:]
-            pos = fout.find('output_text')
-            fout = fout[pos:]
-            
+            # NB this requires Jupyter Kernels to be installed!
             assert '24' in fout
-            #assert '36' in fout
-            #os.remove(os.path.join(tdir, fname + '.' + extension))
+            assert '36' in fout
+            os.remove(os.path.join(tdir, fname + '.' + extension))
 
 
 '''
