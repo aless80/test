@@ -39,7 +39,7 @@ class JupyterKernelClient:
 
         :param str syntax: programming language of the Jupyter kernel
         """
-        kernel_name = self.__find_kernel_name(syntax)
+        kernel_name = self.find_kernel_name(syntax)
         self.kernel_name = kernel_name
         self.manager = KernelManager(kernel_name=kernel_name)
         if not self.kernel_name:
@@ -56,7 +56,8 @@ class JupyterKernelClient:
         """
         return self.manager.is_alive()
 
-    def __find_kernel_name(self, syntax):
+    @staticmethod
+    def find_kernel_name(syntax):
         """Internal function to searched a Jupyter kernel between the list of
         Jupyter kernels installed.
 

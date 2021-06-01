@@ -59,7 +59,7 @@ def create_file_with_text(text='', fname=None):
         f.write(text)
     return fname
 
-'''
+
 ### function in common.py
 def test_get_code_block_args():
     from doconce.common import get_code_block_args
@@ -295,11 +295,11 @@ def test_get_deck_footer():
     from doconce.slides import get_deck_footer
     output = get_deck_footer()
     assert output.find('Begin extension snippets') > -1
-'''
 
 
 ### test --execute
 def test_doconce_format_execute(tdir):
+    from doconce.jupyter_execution import JupyterKernelClient
     # test doconce format html
     with cd_context(tdir):
         pytext = 'python\n!bc pycod\nvar=11\n!ec\n\n!bc pycod\nprint(var+1)\n!ec\n'
@@ -321,8 +321,10 @@ def test_doconce_format_execute(tdir):
                 fout = f.read()
             assert '12' in fout
             # NB this requires Jupyter Kernels to be installed!
-            assert '24' in fout
-            assert '36' in fout
+            if JupyterKernelClient.find_kernel_name('bash'):
+                assert '24' in fout
+            if JupyterKernelClient.find_kernel_name('julia'):
+                assert '36' in fout
             os.remove(os.path.join(tdir, fname + '.' + extension))
 
 
