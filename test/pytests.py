@@ -323,7 +323,7 @@ def test_doconce_format_execute(tdir):
             
             pos = fout.find('22')
             fout = fout[pos:]
-            pos = fout.find('$var')
+            pos = fout.find('var')
             fout = fout[pos:]
             pos = fout.find('</div>')
             fout = fout[pos:]
