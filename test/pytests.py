@@ -326,7 +326,7 @@ def test_doconce_format_execute(tdir):
             pos = fout.find('12')
             fout = fout[pos:]
 
-            pos = fout[pos:].find('<p>bash')            
+            pos = fout.find('<p>bash')            
             fout = fout[pos:]
             assert '24' in fout
             #assert '36' in fout
