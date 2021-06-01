@@ -320,9 +320,9 @@ def test_doconce_format_execute(tdir):
             with open(os.path.join(tdir, fname + '.' + extension), 'r') as f:
                 fout = f.read()
             assert '12' in fout
+            
             pos = fout.find('22')
-            fout = fout[:pos]
-
+            fout = fout[pos:]
             pos = fout.find('$var')
             fout = fout[pos:]
             pos = fout.find('</div>')
