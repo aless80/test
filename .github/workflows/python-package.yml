@@ -51,5 +51,5 @@ jobs:
       with:
         name: temp file in pytest
         path: |
-          test/a.do.txt
-          test/a.html
+          a.do.txt
+          a.html
