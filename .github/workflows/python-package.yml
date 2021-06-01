@@ -19,6 +19,11 @@ jobs:
         python-version: [3.8]
 
     steps:
+    - uses: julia-actions/setup-julia@v1
+      with:
+        version: ''
+        arch: ''
+        show-versioninfo: ''
     - uses: actions/checkout@v2
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v2

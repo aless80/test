@@ -59,7 +59,7 @@ def create_file_with_text(text='', fname=None):
         f.write(text)
     return fname
 
-
+'''
 ### function in common.py
 def test_get_code_block_args():
     from doconce.common import get_code_block_args
@@ -295,7 +295,7 @@ def test_get_deck_footer():
     from doconce.slides import get_deck_footer
     output = get_deck_footer()
     assert output.find('Begin extension snippets') > -1
-
+'''
 
 
 ### test --execute
