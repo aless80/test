@@ -328,6 +328,9 @@ def test_doconce_format_execute(tdir):
 
             pos = fout.find('<p>bash')            
             fout = fout[pos:]
+
+            pos = fout.find('line-height')
+            fout = fout[pos:]
             assert '24' in fout
             #assert '36' in fout
             #os.remove(os.path.join(tdir, fname + '.' + extension))
