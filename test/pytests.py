@@ -303,7 +303,7 @@ def test_doconce_format_execute(tdir):
     # test doconce format html
     with cd_context(tdir):
         pytext = 'python\n!bc pycod\nvar=11\n!ec\n\n!bc pycod\nprint(var+1)\n!ec\n'
-        shtext = 'bash  \n!bc shpro\nvar=22\n!ec\n\n!bc shcod\necho $(expr $var + 2)\n!ec\n'
+        shtext = 'bash  \n!bc shpro\nvar=22\n!ec\n\n!bc shcod\necho $((var+2))\n!ec\n'
         jltext = 'julia \n!bc jlcod\nvar=33\n!ec\n\n!bc jlpro\nprint(var+3)\n!ec\n'
         for format in ['html']: #TODO 'ipynb'  , 'latex'
             fname = 'a'
